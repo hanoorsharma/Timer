@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "org.hyperskill.stopwatch.Timer-task-mergeDebugResources-31:/layout/activity_main.xml",
+        "source": "org.hyperskill.stopwatch.Timer-task-main-34:/layout/activity_main.xml"
+    },
+    {
+        "merged": "org.hyperskill.stopwatch.Timer-task-mergeDebugResources-31:/layout/dialog_input.xml",
+        "source": "org.hyperskill.stopwatch.Timer-task-main-34:/layout/dialog_input.xml"
+    }
+]

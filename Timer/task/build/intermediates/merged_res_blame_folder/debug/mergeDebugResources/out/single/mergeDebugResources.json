@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "org.hyperskill.stopwatch.Timer-task-debug-32:/drawable_ic_launcher_background.xml.flat",
+        "source": "org.hyperskill.stopwatch.Timer-task-main-34:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "org.hyperskill.stopwatch.Timer-task-debug-32:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "org.hyperskill.stopwatch.Timer-task-main-34:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "org.hyperskill.stopwatch.Timer-task-debug-32:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "org.hyperskill.stopwatch.Timer-task-main-34:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "org.hyperskill.stopwatch.Timer-task-debug-32:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "org.hyperskill.stopwatch.Timer-task-pngs-28:/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "org.hyperskill.stopwatch.Timer-task-debug-32:/drawable_progress_spinner.xml.flat",
+        "source": "org.hyperskill.stopwatch.Timer-task-main-34:/drawable/progress_spinner.xml"
+    },
+    {
+        "merged": "org.hyperskill.stopwatch.Timer-task-debug-32:/layout_dialog_input.xml.flat",
+        "source": "org.hyperskill.stopwatch.Timer-task-main-34:/layout/dialog_input.xml"
+    },
+    {
+        "merged": "org.hyperskill.stopwatch.Timer-task-debug-32:/layout_activity_main.xml.flat",
+        "source": "org.hyperskill.stopwatch.Timer-task-main-34:/layout/activity_main.xml"
+    },
+    {
+        "merged": "org.hyperskill.stopwatch.Timer-task-debug-32:/drawable_ic_notification.xml.flat",
+        "source": "org.hyperskill.stopwatch.Timer-task-main-34:/drawable/ic_notification.xml"
+    }
+]

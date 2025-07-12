@@ -1,0 +1,16 @@
+# Ignore build directories
+/build/
+/*/build/
+
+# Ignore Gradle cache
+.gradle/
+
+# Ignore local configuration files
+local.properties
+
+# Ignore generated files
+*.iml
+.idea/
+
+# Ignore Mac system files
+.DS_Store

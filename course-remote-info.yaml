@@ -1,0 +1,115 @@
+hyperskill_project:
+  id: 72
+  ide_files: https://hyperskill.org/api/projects/72/additional-files/additional_files.json
+  is_template_based: false
+  use_ide: true
+  environment: android
+update_date: "Sat, 12 Jul 2025 22:33:35 UTC"
+stages:
+  - id: 394
+    step: 9286
+    is_completed: true
+  - id: 395
+    step: 9287
+    is_completed: true
+  - id: 396
+    step: 27388
+    is_completed: true
+  - id: 397
+    step: 27389
+    is_completed: true
+  - id: 398
+    step: 27390
+    is_completed: true
+topics:
+  0:
+    - title: Introduction to UI/UX
+      theory_id: 14603
+    - title: Layout grids
+      theory_id: 14922
+    - title: Interface elements
+      theory_id: 15253
+    - title: Input fields and field labels
+      theory_id: 15447
+    - title: Fonts
+      theory_id: 15045
+    - title: "Write, compile, and run"
+      theory_id: 3739
+    - title: "Basic terms: JVM, JRE, JDK"
+      theory_id: 3499
+    - title: Operating systems
+      theory_id: 9704
+    - title: Command line overview
+      theory_id: 8977
+    - title: Parameters and options
+      theory_id: 9746
+    - title: Build tools
+      theory_id: 4284
+    - title: "Gradle: overview"
+      theory_id: 5075
+    - title: External resources
+      theory_id: 6216
+    - title: Android studio basics
+      theory_id: 11048
+    - title: API Levels
+      theory_id: 11312
+    - title: Introduction to Android
+      theory_id: 6331
+    - title: XML
+      theory_id: 6901
+    - title: Android Project Structure
+      theory_id: 10752
+    - title: AndroidManifest File
+      theory_id: 10762
+    - title: Resources
+      theory_id: 11087
+    - title: Values
+      theory_id: 11370
+    - title: XML Layouts
+      theory_id: 10997
+    - title: ConstraintLayout vs RelativeLayout
+      theory_id: 35445
+    - title: "Text, images, and buttons"
+      theory_id: 12918
+    - title: "Linear, Frame, Relative layouts"
+      theory_id: 11981
+  1:
+    - title: Feedback
+      theory_id: 15308
+    - title: Handlers
+      theory_id: 13046
+    - title: Retrieving Declared Views
+      theory_id: 20346
+    - title: Toast
+      theory_id: 11973
+    - title: Event listeners
+      theory_id: 12822
+    - title: Intent
+      theory_id: 11965
+    - title: Activity
+      theory_id: 15455
+  2:
+    - title: Vector and raster graphics
+      theory_id: 14210
+    - title: Graphic file formats
+      theory_id: 14344
+    - title: "Overview of ProgressBar, SeekBar and RatingBar"
+      theory_id: 28515
+    - title: Drawables overview
+      theory_id: 12832
+    - title: Customizing ProgressBar and SeekBar
+      theory_id: 28526
+  3:
+    - title: Colors
+      theory_id: 14914
+    - title: AlertDialog
+      theory_id: 12330
+  4:
+    - title: Design tips and rules
+      theory_id: 15205
+    - title: Permissions
+      theory_id: 23292
+    - title: PendingIntent
+      theory_id: 12503
+    - title: Posting notifications
+      theory_id: 12603
