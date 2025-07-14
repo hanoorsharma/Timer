@@ -45,7 +45,6 @@ class MainActivity : AppCompatActivity() {
     private var seconds = 0
     private var isActive = false
     private var upperLimit: Int? = null  // in seconds
-
     private val barColors = listOf(0xFF66558E, 0xFF416835, 0xFF6D5E0F)
     private var currentColor = 0
     private val handler = Handler(Looper.getMainLooper())
