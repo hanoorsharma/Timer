@@ -36,7 +36,6 @@ import kotlinx.coroutines.isActive
 import kotlinx.coroutines.launch
 import kotlin.random.Random
 
-
 class MainActivity : AppCompatActivity() {
     private val timerDisplay: TextView by lazy { findViewById(R.id.textView) }
     private val progressBar: ProgressBar by lazy { findViewById(R.id.progressBar) }
